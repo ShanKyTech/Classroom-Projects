@@ -1,0 +1,3 @@
+getElementById{
+    applicationCache.IDLE;
+}

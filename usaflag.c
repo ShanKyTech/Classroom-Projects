@@ -1,10 +1,8 @@
 #include <stdio.h>
- 
 int main()
 {
     int a =5 ;
-   
- while (a--> 0) // outer while  loop
+   while (a--> 0) // outer while  loop
  {
      int b =5;
      int c=10;
